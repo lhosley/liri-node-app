@@ -46,3 +46,11 @@ node liri.js movie-this 'title of a movie'-----looks up the movie entered via th
 
 
 ***All response outputs that show up in the command window are also logged in a text file (log.txt) to keep track of all commands and their respective responses.
+
+
+**LINK TO DEMO OF LIRI BOT IN ACTION!**
+
+https://drive.google.com/open?id=1CZdpDVUr7lWKwW9WrrsDs6obrbpv9MOi
+
+
+

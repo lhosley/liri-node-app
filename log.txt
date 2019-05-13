@@ -100,3 +100,47 @@ The Album is: Hotel California (Remastered)
 The Preview Link is: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
 ------------------------------------------------------------
 
+The Song is: mr. brightside
+
+The Band is: The Killers
+
+The Album is: Hot Fuss
+
+The Preview Link is: https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu
+------------------------------------------------------------
+
+Band/Artist: the killers
+
+Name of Venue: Belsonic
+
+Venue Location: Belfast, United Kingdom
+
+Date of the Event: 06/25/2019
+------------------------------------------------------------
+
+Movie Title: Titanic
+
+Year: 1997
+
+Ratings: Internet Movie Database: 7.8/10
+
+Addt’l. Ratings: Rotten Tomatoes: 89%
+
+Conutry: USA
+
+Language: English, Swedish, Italian
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+------------------------------------------------------------
+
+The Song is: "I Want it That Way"
+
+The Band is: Backstreet Boys
+
+The Album is: The Hits--Chapter One
+
+The Preview Link is: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+------------------------------------------------------------
+
